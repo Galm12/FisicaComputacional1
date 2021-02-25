@@ -1,2 +1,0 @@
-# FisicaComputacional1
-Trabajos
